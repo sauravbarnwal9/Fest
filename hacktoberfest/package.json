@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "axios": "^1.5.1",
+    "mapbox": "^1.0.0-beta10",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest"
